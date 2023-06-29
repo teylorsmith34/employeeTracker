@@ -7,7 +7,11 @@ This is a command-line application that allows the user to view and manage the d
 
 ## Usage
 
-![Employee Tracker](./video/employeeTracker.mp4)
+
+
+https://github.com/teylorsmith34/employeeTracker/assets/129015943/35c39c10-984d-4088-b913-c1ce35098079
+
+
 
 -----
 
