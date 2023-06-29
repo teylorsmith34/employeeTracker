@@ -1,12 +1,11 @@
 # Employee Tracker
 -----
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis velit nec diam aliquam mattis. Nulla facilisi. Nulla facilisi. Donec euismod, mi vel molestie molestie, elit dolor vehicula tortor, vel ultricies velit nulla vitae lorem. Sed euismod, ante quis ultrices ultrices, velit enim ultrices nulla, vitae elementum nunc justo vitae velit. Nulla facilisi. Nullam non lacus id nunc lacinia venenatis. Sed ut ipsum ac nunc ultricies ultrices. Nulla facilisi. Nulla facilisi. Nullam auctor, augue non luctus tincidunt, felis nibh finibus elit, vel tempor quam tortor eu nisl.
-
+This is a command-line application that allows the user to view and manage the departments, roles, and employees in a company. The user can add departments, roles, and employees, view departments, roles, and employees, and update employee roles.
 -----
 
 ## Usage
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis velit nec diam aliquam mattis. Nulla facilisi. Nulla facilisi. Donec euismod, mi vel molestie molestie, elit dolor vehicula tortor, vel ultricies velit nulla vitae lorem. Sed euismod, ante quis ultrices ultrices, velit enim ultrices nulla, vitae elementum nunc justo vitae velit. Nulla facilisi. Nullam non lacus id nunc lacinia venenatis. Sed ut ipsum ac nunc ultricies ultrices. Nulla facilisi. Nulla facilisi. Nullam auctor, augue non luctus tincidunt, felis nibh finibus elit, vel tempor quam tortor eu nisl.
+
 
 -----
 
